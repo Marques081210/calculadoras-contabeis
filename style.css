@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    border: solid 1px #efefef;
+    border-radius: 10px;
+    margin-top: 30px;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.container-calculadoras {
+    display: flex;
+    width: 900px;
+    margin: auto;
+    justify-content: space-between;
+}
